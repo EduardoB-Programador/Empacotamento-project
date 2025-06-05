@@ -1,0 +1,7 @@
+//Esse arquivo serve como uma forma mais simples de inserir os dados caso não queira inserir pelo terminal.
+//Insira o valor dentro dos <>.
+
+1- Capacidade fixa dos caminhões : <10>
+2- Capacidade fixa dos armazéns : <20>
+3- Lista com os volumes de containers a serem descarregados: [<5>, <4>, <3>, <2>, <2>, <2>, <2>]
+//Adicione mais <> com o valor dentro caso necessário.
